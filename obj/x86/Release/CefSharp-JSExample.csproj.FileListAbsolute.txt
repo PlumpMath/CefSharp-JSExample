@@ -1,0 +1,5 @@
+C:\Users\lemoussel\SkyDrive\VS Project\CEF\CefSharp\CefSharp-JSExample\bin\x86\Release\CefSharp-JSExample.exe.config
+C:\Users\lemoussel\SkyDrive\VS Project\CEF\CefSharp\CefSharp-JSExample\bin\x86\Release\CefSharp-JSExample.exe
+C:\Users\lemoussel\SkyDrive\VS Project\CEF\CefSharp\CefSharp-JSExample\bin\x86\Release\CefSharp-JSExample.pdb
+C:\Users\lemoussel\SkyDrive\VS Project\CEF\CefSharp\CefSharp-JSExample\obj\x86\Release\CefSharp-JSExample.exe
+C:\Users\lemoussel\SkyDrive\VS Project\CEF\CefSharp\CefSharp-JSExample\obj\x86\Release\CefSharp-JSExample.pdb

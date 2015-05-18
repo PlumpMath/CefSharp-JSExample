@@ -1,0 +1,6 @@
+C:\Users\lemoussel\SkyDrive\VS Project\CEF\CefSharp\CefSharp-JSExample\bin\Debug\CefSharp-JSExample.exe.config
+C:\Users\lemoussel\SkyDrive\VS Project\CEF\CefSharp\CefSharp-JSExample\bin\Debug\CefSharp-JSExample.exe
+C:\Users\lemoussel\SkyDrive\VS Project\CEF\CefSharp\CefSharp-JSExample\bin\Debug\CefSharp-JSExample.pdb
+C:\Users\lemoussel\SkyDrive\VS Project\CEF\CefSharp\CefSharp-JSExample\obj\Debug\CefSharp-JSExample.csprojResolveAssemblyReference.cache
+C:\Users\lemoussel\SkyDrive\VS Project\CEF\CefSharp\CefSharp-JSExample\obj\Debug\CefSharp-JSExample.exe
+C:\Users\lemoussel\SkyDrive\VS Project\CEF\CefSharp\CefSharp-JSExample\obj\Debug\CefSharp-JSExample.pdb
