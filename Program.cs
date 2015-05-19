@@ -19,8 +19,7 @@ namespace CefSharp_JSExample
 
             settings.RemoteDebuggingPort = 8088;
             settings.LogSeverity = LogSeverity.Verbose;
-
-            if (DebuggingSubProcess) { settings.BrowserSubprocessPath = "CefSharp.BrowserSubprocess.exe"; }
+            settings.CachePath = "cache";
 
             Cef.OnContextInitialized = delegate { Cef.SetCookiePath("cookies", true); };
 
